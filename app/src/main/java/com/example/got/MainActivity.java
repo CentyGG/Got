@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         int a;
         System.out.println("gg");
+        System.out.println("wp");
     }
 
 }
